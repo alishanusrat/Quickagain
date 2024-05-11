@@ -1,0 +1,211 @@
+header{
+border-bottom: 3px solid #CCCFD9;
+}
+.container{
+  width: 90%;
+  /*border:1px solid red;*/
+  margin:0 auto;
+  
+}
+.wrapper{
+overflow:hidden;
+}
+.logo{
+  width:15%;
+  float:left;
+    /*border:1px solid black;*/
+
+}
+.logo img{
+  width:100%;
+
+}
+.menu{
+width:37%;
+float:right;
+  /*border:1px solid black;*/
+  padding:30px 0;
+
+}
+.menu ul{
+
+}
+.menu ul li{
+list-style:none;
+
+
+}
+.menu ul li a{
+  text-decoration:none;
+  float:left;
+  margin:0 20px;
+   font-family:sans-serif;
+    font-size: 16px;
+    color:#0F2656;
+
+}
+.menu ul li:last-child a{
+margin-right: 0;
+
+}
+
+.banner{
+
+}
+
+.b_container{
+ width:90%;
+  /*border:1px solid red;*/
+  margin:0 auto;
+
+}
+.b_wrapper{
+  padding:30px 50px;
+
+}
+.b_text{
+  text-align: center;
+  width:60%;
+  margin:0 auto;
+   font-family:sans-serif;
+
+}
+.b_text h1{
+font-size: 42px;
+    color:#0F2656;
+}
+.b_text h2{
+  font-size: 42px;
+    color:#008AFF;
+    line-height: 15px;
+
+}
+.b_text p{
+font-size: 16px;
+    color:#0F2656;
+}
+.b_image{
+width:60%;
+margin:0 auto;
+padding-top:35px;
+}
+.b_image img{
+  width: 100%;
+
+}
+
+.success{
+
+
+}
+ 
+ .s_wrapper{
+overflow: hidden;
+font-family:sans-serif;
+/*border:1px solid red;*/
+ }
+ .s_3k{
+  
+  float:left;
+  text-align: right;
+  /*border:1px solid red;*/
+  margin-top: 10px;
+    width: 26%;
+    margin-left: 270px;
+
+ }
+ .s_3k h2{
+  color:#F16767;
+  font-size: 40px;
+  margin-bottom:0;
+  padding: 0 0 5px 0;
+
+ }
+  .s_3k p{
+    margin-top:0;
+    color:#0F2656;
+    word-spacing: 2px;
+  
+
+}
+.s_text{
+   
+  float:right;
+  /*border:1px solid red;*/
+      font-size: 30px;
+    
+        width: 30%;
+    margin-right: 300px;
+    line-height: 45px;
+
+}
+.s_text h1{
+  color:#0F2656;
+}
+
+.create{
+
+}
+.c_wrapper{
+  overflow: hidden;
+  margin:0 auto;
+  padding-top:35px;
+
+
+
+}
+.single{
+float:left;
+font-family: sans-serif;
+width:30%;
+height:470px;
+ padding-left:25px;
+    
+
+    
+
+}
+
+.pink {
+  background-color:#FDEBED;
+margin-right:2%;
+}
+.green {
+   background-color:#EBF9F4;
+margin-right:2%;
+}
+.yellow {
+   background-color:#FFF7E8;
+margin-right:0;
+}
+
+.single h1{
+color:#0F2656;
+}
+.single p{
+  color:#0F2656;
+  line-height:25px;
+  font-size:18px;
+  word-spacing:5px;
+ 
+
+  
+}
+.single img{
+  width:100%;
+}
+footer{
+  background-color:#008AFF;
+  padding:20px;
+  margin-top:70px;
+}
+.copy{
+  text-align: center;
+  color:RGB(255,255,255,0.7);
+}
+.copy a{
+  text-decoration:none;
+  letter-spacing: 5px;
+  word-spacing: 1px;
+  color:white;
+}
